@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://gpt-analytics.gpt-partnes.com/">
-    <img src="https://raw.githubusercontent.com/gpt-partners/gpt-analytics/main/gpt-analytics-icon.png" width="140px" alt="GPT Analytics" />
+    <img src="https://raw.githubusercontent.com/gpt-partners/gpt-analytics-docs/master/gpt-analytics-icon.png" width="140px" alt="GPT Analytics" />
   </a>
 </p>
 <p align="center">
