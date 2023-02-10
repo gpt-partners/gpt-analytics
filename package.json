@@ -1,0 +1,11 @@
+{
+  "name": "gpt-analytics",
+  "version": "1.0.0",
+  "description": "Ask your data any question",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GPT Partners",
+  "license": "ISC"
+}
