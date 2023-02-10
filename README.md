@@ -10,7 +10,7 @@
     <a href="https://gpt-analytics.gpt-partners.com/integrate-any-data">Integrate any data</a> |
     <a href="https://gpt-analytics.gpt-partners.com/flexible-deployment">Flexible deployment</a> |
     <a href="https://gpt-analytics.gpt-partners.com/open-source-gpt-analytics">Open Source</a> |
-    <a href="https://gpt-analytics.gpt-partners.com/docs">Docs</a> |
+    <a href="https://docs.gpt-analytics.gpt-partners.com">Docs</a> |
     <a href="https://github.com/gpt-partners/gpt-analytics/blob/master/CONTRIBUTING.md">Contributing</a>
     <br /><br />
 </p>
